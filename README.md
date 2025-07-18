@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Harishankar-kumar-bit" width="150" style="border-radius: 50%; border: 4px solid #007acc;" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Harishankar Kumar</span></h1>
 <h3 align="center">🚀 Passionate Developer | Flutter • React • MERN • Android | Open Source Enthusiast</h3>
