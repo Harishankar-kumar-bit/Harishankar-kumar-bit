@@ -21,7 +21,6 @@
 
 **Languages**:  
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 **Frontend**:  
