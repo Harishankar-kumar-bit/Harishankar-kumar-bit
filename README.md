@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Harishankar-kumar-bit" width="150" style="border-radius: 50%; border: 4px solid #007acc; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
+
 
 🎓 Hey there! I'm **Harishankar Kumar**, a passionate B.Tech student pursuing Computer Engineering. I'm actively learning and building amazing projects using Flutter, React, and the MERN stack.
 
