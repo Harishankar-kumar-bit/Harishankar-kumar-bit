@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(to right, #1f1c2c, #928dab); padding: 20px; border-radius: 20px;">
-  <img src="https://avatars.githubusercontent.com/Harishankar-kumar-bit" width="150" style="border-radius: 50%; border: 4px solid #00bfff; box-shadow: 0 0 10px #00bfff;" />
+
 
   <h1 style="color: #fff">Hi 👋, I'm <span style="color:#00bfff">Harishankar Kumar</span></h1>
   <h3 style="color: #d1d1d1">🚀 Passionate Developer | React • MERN • Android | Open Source Enthusiast</h3>
